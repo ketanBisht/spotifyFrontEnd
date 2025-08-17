@@ -1,0 +1,28 @@
+*{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 512;
+  font-style: normal;
+  background-color: black;
+  color: white;
+  overflow: hidden;
+}
+
+.main{
+    display: flex;
+    height: 100vh;
+}
+
+.sideBar{
+    width: 340px;
+}
+
+.mainContent{
+    flex: 1;
+}
+
+.player{
+    position: fixed;
+    bottom:0;
+    
+}
