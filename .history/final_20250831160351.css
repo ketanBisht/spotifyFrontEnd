@@ -345,7 +345,7 @@
         .paint-town-red{
             background: linear-gradient(135deg, #DC143C 0%, #8B0000 100%);
             position: relative;
-            
+            ima
         }
 
         .paint-town-red::after{

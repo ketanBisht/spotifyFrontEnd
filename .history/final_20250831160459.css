@@ -350,6 +350,7 @@
 
         .paint-town-red::after{
             content: "🎤";
+            vzz
             font-size: 48px;
             position: absolute;
             top: 50%;
